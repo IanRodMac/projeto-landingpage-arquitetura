@@ -1,5 +1,3 @@
-# projeto-landingpage-arquitetura
-Este é um site para um escritório de arquitetura.
-
-<!-- LINK DO SITE -->
-https://irm-arch.netlify.app/
+# Desafio 1 - Resolução
+Link do site disponibilizado: https://irm-arch.netlify.app/
+Link da planilha de registro de informações: https://docs.google.com/spreadsheets/d/1QCJAVbNXbxBTkywxXiJ0jFFAWfrlmCIdZnZJ3LzThn4/edit
