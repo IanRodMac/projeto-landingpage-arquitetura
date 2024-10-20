@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "inter";
+}
+
+#header {
+    background-color: #303030;
+    color: #fff;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+
+#titulo {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+#dadosExp {
+    background-color: #f9f9f9;
+    display: grid;
+    grid-auto-flow: column;
+    padding: 30px 0px 30px 100px;
+}
+
+#exp {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+}
+
+#textExp {
+    width: 650px;
+    margin-left: 60px;
+    padding: 50px;
+}
+
+#titleExp {
+    margin-bottom: 30px;
+}
+
+#descExp {
+    width: 600px;
+    font-size: 20px;
+}
+
+#imgExp {
+    height: 500px;
+}
+
+#formG {
+    background-color: #303030;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    padding: 60px;
+    margin-top: 60px
+}
+
+#textForm {
+    margin-bottom: 60px;
+}
+
+#formInput {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "raleway";
+}
+
+.formInputBox {
+    width: 450px;
+    height: 60px;
+    margin-bottom: 50px;
+    border: 0;
+    border-radius: 10px;
+    padding: 0 0 0 20px;
+    font-size: 20px; 
+}
+
+button {
+    color: #fff;
+    font-family: "raleway";
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: #c07212;
+    border: 0;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #eea854c0;
+    box-shadow: 2px 2px 5px #cfbca4;
+}
